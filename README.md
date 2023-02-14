@@ -10,7 +10,8 @@ Projects are listed under the following categories:
 - [Metaverse](#metaverse)
 - [NFT](#nft)
 - [SocialFi](#socialfi)
-
+- [Decentralized Storage](#decentralizedstorage)
+- [Security](#security)
 
 ## Categories
 
@@ -53,3 +54,14 @@ Projects are listed under the following categories:
 | 1     | [NFT Minting](https://github.com/eyyubmermer/Patika-NFT-Minting-App)     | [Eyyub Ensar Mermer](https://github.com/eyyubmermer)  |
 | 2   | [document verification](https://github.com/RumeelHussain/Consensys-Academy-Dev-BootCamp-2018-Final-Project)        |[Rumeel Hussain](https://github.com/RumeelHussain) |
 
+## DecentralizedStorage
+| Project No      | Project Name | Creator |
+| ----------- | ----------- | ----------- |
+| 1     | [NFT Minting](https://github.com/eyyubmermer/Patika-NFT-Minting-App)     | [Eyyub Ensar Mermer](https://github.com/eyyubmermer)  |
+| 2   | [document verification](https://github.com/RumeelHussain/Consensys-Academy-Dev-BootCamp-2018-Final-Project)        |[Rumeel Hussain](https://github.com/RumeelHussain) |
+
+## Security
+| Project No      | Project Name | Creator |
+| ----------- | ----------- | ----------- |
+| 1     | [NFT Minting](https://github.com/eyyubmermer/Patika-NFT-Minting-App)     | [Eyyub Ensar Mermer](https://github.com/eyyubmermer)  |
+| 2   | [document verification](https://github.com/RumeelHussain/Consensys-Academy-Dev-BootCamp-2018-Final-Project)        |[Rumeel Hussain](https://github.com/RumeelHussain) |
